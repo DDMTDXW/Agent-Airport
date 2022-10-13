@@ -248,7 +248,7 @@ EFCloud - efcloud.cc
 
 TuringNET - turingnet.xyz
 
-Free Airports - freeairports.com
+Free Airports - 免费机场.com
 
 Sunny to cloudy - by.xbygood.xyz
 
@@ -260,22 +260,21 @@ Public Cloud - fastea.top
 
 Cheap.
 
-Dollar Airport - dollarairport.com
+一元机场 - 一元机场.com
 
 Alink - alink123.com
 
-Big Airport (directly connected nodes are unstable) - bigairport.company
+大机场(直连节点不稳定) - 大机场.company
 
 nanoPort - 官网.xyz
 
-Cost-effective airport - cost-effective-airport.com
+性价比机场 - 性价比机场.com
 
 PRPRCheng - prprcheng.com
 
-lowcostairport - lowcostairport.com
+低价机场 - 低价机场.com
 
-Two Dollar Store - two-dollar-store.com
-
+两元店 - 两元店.com
 
 
 Medium Price.
@@ -304,7 +303,7 @@ Nexitally - nexitally.com
 
 Kuromi - kuromis.com
 
-Kolli - 1.kolli.com
+Kolli - 1.可莉.com
 
 MDSSCloud - mdss.cloud
 
