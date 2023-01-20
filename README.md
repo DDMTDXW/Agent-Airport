@@ -70,7 +70,7 @@
 
 [首推]
 
-[XFLTD]https://xftld.org/)
+[XFLTD](https://xftld.org/)
 
 [Xmrth](https://xmrth.shop/)
 
@@ -142,7 +142,7 @@ The following English are machine translated
 
 Please bring this project address and author's name and TG number to reprint
 
-[QQ Group](https://jq.qq.com/? _wv=1027&k=Bfo87JvX) [Telegram group](https://t.me/SB_Netdisk)
+[QQ Group](https://jq.qq.com/?_wv=1027&k=Bfo87JvX) [Telegram group](https://t.me/SB_Netdisk)
 
 Article by [Tiansen](https://t.me/Tsen_Nahida)
 
