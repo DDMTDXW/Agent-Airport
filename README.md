@@ -4,7 +4,7 @@
 
 QQ群：485407083 Telegram群组：@SB_Netdisk
 
-文章作者：Tiansen
+文章作者：[Tiansen](https://t.me/Tsen_Nahida)
 
 本GitHub项目只是代挂
 
