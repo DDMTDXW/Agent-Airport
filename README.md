@@ -2,7 +2,9 @@
 
 中文版本：
 
-QQ群：485407083 Telegram群组：@SB_Netdisk
+转载请带本项目地址和作者名和TG号
+
+[QQ群](https://jq.qq.com/?_wv=1027&k=Bfo87JvX) [Telegram群组](https://t.me/SB_Netdisk)
 
 文章作者：[Tiansen](https://t.me/Tsen_Nahida)
 
@@ -38,120 +40,113 @@ QQ群：485407083 Telegram群组：@SB_Netdisk
 
 低价：
 
+
 「首推」
-EFCloud - https://efcloud.cc/
+
+[EFCloud](https://efcloud.cc/)
+
 
 「推荐」
-一日机场 - https://airport.lianpi.xyz/
 
-Alink - https://alink123.com/
+[一日机场](https://airport.lianpi.xyz/)
 
-BigAirport - http://大机场.company/
+[Alink](https://alink123.com/)
 
-nanoPort - http://官网.xyz/
+[BigAirport](http://大机场.company/)
 
-性价比机场 - http://性价比机场.com/
+[nanoPort](http://官网.xyz/)
 
-低价机场 - http://低价机场.com/
+[[性价比机场](http://性价比机场.com/)
 
-PRPRCheng - https://prprcheng.com/
+[低价机场](http://低价机场.com/)
+
+[PRPRCheng](https://prprcheng.com/)
+
 
 
 中价：
 
-PaopaoDog - https://paopao.dog/
+[PaopaoDog](https://paopao.dog/）
 
 「首推」
-XFLTD - https://xftld.org/
 
-Xmrth - http://xmrth.shop/
+[XFLTD](https://xftld.org/）
 
-XSUS - https://xsus.buzz/
+[Xmrth](http://xmrth.shop/）
 
-跨越长城 - http://direct.gfwservice.xyz/
+[XSUS](https://xsus.buzz/）
 
-KeleCloud - http://kelecloud.xyz/
+[跨越长城](http://direct.gfwservice.xyz/）
 
-MDSSCloud - https://mdss.cloud/
+[KeleCloud](http://kelecloud.xyz/）
 
-InfiniPort - http://console.infiniport.xyz/
+[MDSSCloud](https://mdss.cloud/）
 
-WestData - http://fuqing.cz/
+[InfiniPort](http://console.infiniport.xyz/）
 
-MESL - https://in.mesl.cloud/
+[WestData](http://fuqing.cz/）
+
+[MESL](https://in.mesl.cloud/）
 
 
 
 高端：
 
-Nexitally - http://nexitally.com/
+[Nexitally](http://nexitally.com/）
 
-Kuromis - http://kuromis.com/
+[Kuromis](http://kuromis.com/）
 
-Klee - http://1.可莉.com/
+[Klee](http://1.可莉.com/）
 
-TAG - http://tagss.pro/
+[TAG](http://tagss.pro/）
 
-prprCloud - http://prprcloud.moe/
+[prprCloud](http://prprcloud.moe/）
 
-Maying - http://maying.co/
+[Maying](http://maying.co/）
 
-YToo - http://stentvessel.shop/
+[YToo](http://stentvessel.shop/）
 
-FlowerCloud - https://flower.yt/
+[FlowerCloud](https://flower.yt/）
 
-ImmTelecom - https://immtel.net/
-
-
+[ImmTelecom](https://immtel.net/）
 
 代理工具客户端指引
 
+Windows使用机场推荐 [Clash for Windows](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)
 
-
-Windows使用机场推荐 Clash for Windows 代理客户端
-
-下载地址：
-
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.25_CN/Clash.for.Windows.Setup.0.19.25.exe
-
-
-
-安卓使用机场推荐 Clash for Android 代理客户端
-
-下载地址：
-
-https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-arm64-v8a-release.apk
-
-
+安卓使用机场推荐 [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
 
 iOS使用机场推荐 Shadowrocket 代理客户端
 
-你可以前往 http://share.applemart.me/ 获取Shadowrocket共享账号
+[Shadowrocket共享账号](http://share.applemart.me/)
 
 Tips:
 
 1.登陆时，若出现“Apple ID 安全”和一个蓝色的锁，请依次点击下方的“其他选项、不升级”。
 
-
-
 2.请在App Store中右上角账户页登录账户。
 
-
-
  请勿在设置中登录！
 
  请勿在设置中登录！
 
  请勿在设置中登录！
-
-
 
 3.登录共享账号安装完成Shadowrocket后，请及时退出共享账号。
 
 
 
 English version.
-QQ group: 485407083 Telegram group: @SB_Netdisk
+
+The following English are machine translated
+
+Please bring this project address and author's name and TG number to reprint
+
+[QQ Group](https://jq.qq.com/? _wv=1027&k=Bfo87JvX) [Telegram group](https://t.me/SB_Netdisk)
+
+Article by [Tiansen](https://t.me/Tsen_Nahida)
+
+This GitHub project is only a proxy project
 
 What is an airport? The airports mentioned here are not the airports where we travel by airplane flights everyday, but some service providers that offer wall climbing services.
 
@@ -177,114 +172,99 @@ If this article is helpful to you welcome a star, thank you!
 
 low price：
 
+
+低价：
+
 「首推」
-EFCloud - https://efcloud.cc/
+
+[EFCloud](https://efcloud.cc/)
 
 「推荐」
-一日机场 - https://airport.lianpi.xyz/
 
-Alink - https://alink123.com/
+[一日机场](https://airport.lianpi.xyz/)
 
-BigAirport - http://大机场.company/
+[Alink](https://alink123.com/)
 
-nanoPort - http://官网.xyz/
+[BigAirport](http://大机场.company/)
 
-性价比机场 - http://性价比机场.com/
+[nanoPort](http://官网.xyz/)
 
-低价机场 - http://低价机场.com/
+[[性价比机场](http://性价比机场.com/)
 
-PRPRCheng - https://prprcheng.com/
+[低价机场](http://低价机场.com/)
+
+[PRPRCheng](https://prprcheng.com/)
 
 
 中价：
 
-PaopaoDog - https://paopao.dog/
+[PaopaoDog](https://paopao.dog/）
+
 
 「首推」
-XFLTD - https://xftld.org/
 
-Xmrth - http://xmrth.shop/
+[XFLTD](https://xftld.org/）
 
-XSUS - https://xsus.buzz/
+[Xmrth](http://xmrth.shop/）
 
-跨越长城 - http://direct.gfwservice.xyz/
+[XSUS](https://xsus.buzz/）
 
-KeleCloud - http://kelecloud.xyz/
+[跨越长城](http://direct.gfwservice.xyz/）
 
-MDSSCloud - https://mdss.cloud/
+[KeleCloud](http://kelecloud.xyz/）
 
-InfiniPort - http://console.infiniport.xyz/
+[MDSSCloud](https://mdss.cloud/）
 
-WestData - http://fuqing.cz/
+[InfiniPort](http://console.infiniport.xyz/）
 
-MESL - https://in.mesl.cloud/
+[WestData](http://fuqing.cz/）
+
+[MESL](https://in.mesl.cloud/）
 
 
 
-higt_end：
+高端：
 
-Nexitally - http://nexitally.com/
+[Nexitally](http://nexitally.com/）
 
-Kuromis - http://kuromis.com/
+[Kuromis](http://kuromis.com/）
 
-Klee - http://1.可莉.com/
+[Klee](http://1.可莉.com/）
 
-TAG - http://tagss.pro/
+[TAG](http://tagss.pro/）
 
-prprCloud - http://prprcloud.moe/
+[prprCloud](http://prprcloud.moe/）
 
-Maying - http://maying.co/
+[Maying](http://maying.co/）
 
-YToo - http://stentvessel.shop/
+[YToo](http://stentvessel.shop/）
 
-FlowerCloud - https://flower.yt/
+[FlowerCloud](https://flower.yt/）
 
-ImmTelecom - https://immtel.net/
+[ImmTelecom](https://immtel.net/）
 
 Proxy Tools Client Guidelines
 
+Proxy Tools Client Guide
 
+Recommended airports for Windows [Clash for Windows](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)
 
-Recommended Clash for Windows Proxy Client for Windows Airports
-
-Download address.
-
-https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.25_CN/Clash.for.Windows.Setup.0.19.25.exe
-
-
-
-Clash for Android Proxy Client for Android
-
-Download at
-
-https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-arm64-v8a-release.apk
-
-
+Recommended airports for Android [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
 
 Shadowrocket Proxy Client for iOS
 
-You can go to http://share.applemart.me/ to get a Shadowrocket shared account
+[Shadowrocket Shared Account](http://share.applemart.me/)
 
 Tips:
 
 1. When you log in, if "Apple ID Security" and a blue lock appear, please click "Other Options, No Upgrade" below in order.
 
-
-
 2. Please sign in your account in the top right account page of App Store.
-
-
 
  Please do not sign in the Settings!
 
  Please do not sign in the settings!
 
  Please do not sign in the settings!
-
-
-
+ 
 3. After you have finished installing Shadowrocket, please sign out of your shared account promptly.
-
-
-
-
