@@ -56,7 +56,7 @@
 
 [nanoPort](http://官网.xyz/)
 
-[[性价比机场](http://性价比机场.com/)
+[性价比机场](http://性价比机场.com/)
 
 [低价机场](http://低价机场.com/)
 
@@ -72,7 +72,7 @@
 
 [XFLTD](https://xftld.org/）
 
-[Xmrth](http://xmrth.shop/）
+[Xmrth](https://xmrth.shop/）
 
 [XSUS](https://xsus.buzz/）
 
